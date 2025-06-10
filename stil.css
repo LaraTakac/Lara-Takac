@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+p {color:palegoldenrod;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	margin-left: 0;}
+
+.pozadina {background-image:url("background.jpg")}
+.drugapozadina {background-color: rgba(6,16,2,1.00)}
+
+
+
+ol {font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	margin-top: 0;
+	width: 600px;
+	margin-bottom: 10px;}
+
+ul {font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	margin-top: 0;
+	width: 600px;}
+
+li {margin-bottom: 10px}
+
+a {color: palegoldenrod}
+a:link {color: palegoldenrod}
+a:hover{background-color: rgba(115,86,48,0.87)}
+
+h1 {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; color: palegoldenrod}
+h2 {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin-bottom: 10px;}
+h3 {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin-bottom: 10px;}
+
+h2, h3 {background-color: rgba(115,86,48,0.74);
+		width: 600px;
+		padding: 10px;
+		color: white}
+
+ol, ul {color: palegoldenrod}
+
+nav {margin-top: 0;}
+
+blockquote {margin-left: 0;}
+
+
+
+
+
+
+
